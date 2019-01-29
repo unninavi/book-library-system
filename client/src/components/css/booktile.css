@@ -1,0 +1,22 @@
+.todotile{
+    text-align:left;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    padding:1.5em;
+    margin:1em;
+    width:8em;
+    height:9em;
+}
+.todooperation{
+    float:right;
+}
+i{
+    font-size:.7em;
+}
+.editbutton{
+ background: url("https://cdn1.iconfinder.com/data/icons/hawcons/32/698400-icon-136-document-edit-512.png") no-repeat;
+ background-size:98%;
+ width:2.5em;
+ height:2.5em;
+ border: none;
+ margin-left:2em;
+}
