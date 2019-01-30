@@ -20,10 +20,10 @@ To Run this app :
 Which runs client and node server concurrently. 
 website url will be: http://localhost:3000/
 
-If you want to run only client side code:
+If you want to run only client side code:(which does not laod any data from data.json)
 
 ### cd client
-### npm run start
+### npm start
 
 If you want to run only server side code:
 
