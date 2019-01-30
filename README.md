@@ -23,7 +23,7 @@ website url will be: http://localhost:3000/
 If you want to run only client side code:
 
 ### cd client
-### npm run client
+### npm run start
 
 If you want to run only server side code:
 
