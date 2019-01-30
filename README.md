@@ -17,7 +17,8 @@ To Run this app :
 
 ### npm run dev 
 
-Which runs client and node server concurrently
+Which runs client and node server concurrently. 
+website url will be: http://localhost:3000/
 
 If you want to run only client side code:
 
