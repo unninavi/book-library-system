@@ -2,6 +2,17 @@
 
 A classic online book library has all the features of a physical library. Online book library system should be user friendly and easy to understand
 
+### npm install 
+
+To install all dependency for node server 
+
+### cd client
+### npm install
+
+To install all dependency for client side 
+
+Here you go !!!
+
 To Run this app :
 
 ### npm run dev 
