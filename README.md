@@ -25,7 +25,7 @@ If you want to run only client side code:(which does not laod any data from data
 ### cd client
 ### npm start
 
-If you want to run only server side code:
+If you want to run only server side code: (url will be http://localhost:5000/api/bookList )
 
 ### npm run server
 
